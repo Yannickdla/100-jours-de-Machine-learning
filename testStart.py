@@ -1,0 +1,1 @@
+print("Début du challenge le 18/09/2024")
